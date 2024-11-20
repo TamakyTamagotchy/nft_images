@@ -1,0 +1,9 @@
+# Ignorar archivos temporales
+*.tmp
+*.log
+
+# Ignorar imágenes duplicadas
+config/data/nft_images/*
+
+# Ignorar caché
+config/data/cache/*
